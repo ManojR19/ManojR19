@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OosjG3UNVrAhpbteflAXyUyqDo_8DQTa/view?usp=drivesdk](https://drive.google.com/file/d/1OosjG3UNVrAhpbteflAXyUyqDo_8DQTa/view?usp=drivesdk)
 
-- ⚡ Fun fact **I Have Good sense of Humor**
+- ⚡ Fun fact **GAMER**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
