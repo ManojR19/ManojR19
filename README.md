@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/manoj raske" target="blank"><img src="https://img.shields.io/twitter/follow/manoj raske?logo=twitter&style=for-the-badge" alt="manoj raske" /></a> </p>
 
-- 🔭 I’m currently working on **M Reporter**
+- 🔭 I’m currently working on **M Reporter, MerchantWorld, Pruf, Loyalty Solutions, Both Android & Backend Side**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Android Development Along With Full Stack Java Developement**
 
-- 💬 Ask me about **Frontend,SQL,JAVA**
+- 💬 Ask me about **Android XML,Third Party SDK Intigrations,SQL,Spring MVC, Frontend, Third Patrty API Intigrations, REST APIS**
 
 - 📫 How to reach me **work.manojraske@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OosjG3UNVrAhpbteflAXyUyqDo_8DQTa/view?usp=drivesdk](https://drive.google.com/file/d/1OosjG3UNVrAhpbteflAXyUyqDo_8DQTa/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1iPlM_qPsNmugbTXp5qUmVOHTYg6-ytYi/view?usp=drivesdk](https://drive.google.com/file/d/1iPlM_qPsNmugbTXp5qUmVOHTYg6-ytYi/view?usp=drivesdk)
 
 - ⚡ Fun fact **GAMER**
 
