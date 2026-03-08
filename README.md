@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **M Reporter, MerchantWorld, Pruf, Loyalty Solutions, Both Android & Backend Side**
 
-- 🌱 I’m currently learning **Android Development Along With Full Stack Java Developement**
+- 🌱 I’m currently learning **Android Development Along With Full Stack Java Development**
 
-- 💬 Ask me about **Android XML,Third Party SDK Intigrations,SQL,Spring MVC, Frontend, Third Patrty API Intigrations, REST APIS**
+- 💬 Ask me about **Fintech, BFSI, UPI One Time Mandate Android XML, Third Party SDK Integrations, SQL, Spring MVC, Frontend, Third Party Payment API Integrations, REST APIs**
 
 - 📫 How to reach me **work.manojraske@gmail.com**
 
