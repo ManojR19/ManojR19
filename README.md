@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **work.manojraske@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iPlM_qPsNmugbTXp5qUmVOHTYg6-ytYi/view?usp=drivesdk](https://drive.google.com/file/d/1iPlM_qPsNmugbTXp5qUmVOHTYg6-ytYi/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1iPlM_qPsNmugbTXp5qUmVOHTYg6-ytYi/view?usp=drivesdk](https://drive.google.com/drive/folders/1iI44v-xJj7_D-4DciAnA0_0CKxH7hDmy)
 
 - ⚡ Fun fact **GAMER**
 
